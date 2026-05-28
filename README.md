@@ -1,6 +1,6 @@
 # api-financeira
 
-API REST desenvolvida em Java para o gerenciamento de contas correntes e movimentações financeiras, permitindo criação de contas, realização de depósitos, saques, transferências e consulta de extrato.
+API REST desenvolvida em Java para o gerenciamento de contas correntes e movimentações financeiras, permitindo a abertura de contas, realização de depósitos, saques, transferências e consulta de extratos.
 
 ## Tecnologias utilizadas
 
